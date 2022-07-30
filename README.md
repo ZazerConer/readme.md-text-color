@@ -53,6 +53,8 @@ _**or**_
 <img height="100px" https://user-images.githubusercontent.com/000/000-aaa.svg" alt=""/>
 ```
 
+<hr>
+
 ### Example text display
 
 **Output :**
