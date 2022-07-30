@@ -55,7 +55,7 @@ _**or**_
 
 <hr>
 
-### Example text display
+### Example text preview
 
 **Output :**
 
