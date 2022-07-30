@@ -73,4 +73,4 @@ _**or**_
 <hr>
 <br>
 
-#### For more about SVG <text> [Here](https://www.w3schools.com/graphics/svg_text.asp)
+#### For more about SVG ```<text>``` [Here](https://www.w3schools.com/graphics/svg_text.asp)
