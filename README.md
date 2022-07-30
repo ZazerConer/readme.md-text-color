@@ -33,6 +33,8 @@ _Multicolored._
 
 **Edit the width of the "viewBox" on the text (0 0 "50" 18).**
 
+<hr>
+
 ### Edit
 
 **Generate SVG file in README.md.**
