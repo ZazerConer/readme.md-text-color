@@ -10,7 +10,7 @@
 
 **SVG ```<text>``` (text.svg).**
 
-_Single color_
+_Single color._
 
 ```rubi
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 50 18" fill="none">
@@ -41,7 +41,7 @@ _Multicolored._
 
 <br>
 
-**_Example:_**
+**_Example :_**
 
 ```rubi
 ![Github](https://user-images.githubusercontent.com/000/000-aaa.svg)
