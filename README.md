@@ -6,14 +6,14 @@
 
 <hr>
 
-## Create file
+### Create file
 
 **SVG ```<text>``` (text.svg).**
 
 _Single color_
 
 ```rubi
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 60 18" fill="none">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 50 18" fill="none">
     <text x="0" y="15" fill="#9E9E9E">Github</text>
 </svg>
 ```
@@ -31,7 +31,9 @@ _Multicolored._
 </svg>
 ```
 
-## Edit
+**Edit the width of the "viewBox" on the text (0 0 "50" 18).
+
+### Edit
 
 **Generate SVG file in README.md.**
 
@@ -49,24 +51,24 @@ _**or**_
 <img height="100px" https://user-images.githubusercontent.com/000/000-aaa.svg" alt=""/>
 ```
 
-## Example text display
+### Example text display
 
-**Output**
+**Output :**
 
-<img height="80px" src="https://raw.githubusercontent.com/ZazerConer/readme.md-text-color/main/text/google.svg" alt=""/>
+<img height="50px" src="https://raw.githubusercontent.com/ZazerConer/readme.md-text-color/main/text/google.svg" alt=""/>
 
-<img height="80px" src="https://raw.githubusercontent.com/ZazerConer/readme.md-text-color/main/text/youtube.svg" alt=""/>
+<img height="50px" src="https://raw.githubusercontent.com/ZazerConer/readme.md-text-color/main/text/youtube.svg" alt=""/>
 
-<img height="80px" src="https://raw.githubusercontent.com/ZazerConer/readme.md-text-color/main/text/facebook.svg" alt=""/>
+<img height="45px" src="https://raw.githubusercontent.com/ZazerConer/readme.md-text-color/main/text/facebook.svg" alt=""/>
 
-<img height="80px" src="https://raw.githubusercontent.com/ZazerConer/readme.md-text-color/main/text/instagram.svg" alt=""/>
+<img height="50px" src="https://raw.githubusercontent.com/ZazerConer/readme.md-text-color/main/text/instagram.svg" alt=""/>
 
-<img height="80px" src="https://raw.githubusercontent.com/ZazerConer/readme.md-text-color/main/text/twitter.svg" alt=""/>
+<img height="50px" src="https://raw.githubusercontent.com/ZazerConer/readme.md-text-color/main/text/twitter.svg" alt=""/>
 
-<img height="80px" src="https://raw.githubusercontent.com/ZazerConer/readme.md-text-color/main/text/github.svg" alt=""/>
+<img height="50px" src="https://raw.githubusercontent.com/ZazerConer/readme.md-text-color/main/text/github.svg" alt=""/>
 
 
 <hr>
 <br>
 
-**More information [Here](https://www.w3schools.com/graphics/svg_text.asp)**
+### For more about SVG files [Here](https://www.w3schools.com/graphics/svg_text.asp)
