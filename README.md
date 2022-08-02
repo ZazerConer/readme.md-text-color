@@ -31,8 +31,9 @@ _Multicolored :_
 </svg>
 ```
 
-**Edit the width of the "viewBox" on the text (0 0 "50" 18).**
+**Edit the width of the ```"viewBox"``` on the text ```(0 0 "50" 18)```.**
 
+<br>
 <hr>
 
 ### Edit
