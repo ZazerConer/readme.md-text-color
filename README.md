@@ -10,17 +10,17 @@
 
 **SVG ```<text>``` (text.svg).**
 
-_Single color._
+_Single color :_
 
-```rubi
+```js
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 50 18" fill="none">
     <text x="0" y="15" fill="#9E9E9E">Github</text>
 </svg>
 ```
 
-_Multicolored._
+_Multicolored :_
 
-```rubi
+```js
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 55 18" fill="none">
     <text x="0" y="15" fill="#4285f4">G</text>
     <text x="12" y="15" fill="#ea4335">o</text>
